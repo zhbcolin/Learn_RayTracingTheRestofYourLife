@@ -1,0 +1,195 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "RayTracingTheRestofYourLife",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cornell_box_v1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cornell_box_v1-Debug-6b00b996b51d5ba1cda8.json",
+					"name" : "cornell_box_v1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cornell_box_v2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cornell_box_v2-Debug-09a44ce9b16c9ee834eb.json",
+					"name" : "cornell_box_v2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cornell_box_v3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cornell_box_v3-Debug-929a6ad8b4838b95cdb5.json",
+					"name" : "cornell_box_v3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cornell_box_v4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cornell_box_v4-Debug-145fbcf1db8dd8226bb9.json",
+					"name" : "cornell_box_v4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cos_cubed::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cos_cubed-Debug-796f9039bd6d12b45c9a.json",
+					"name" : "cos_cubed",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cos_density::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cos_density-Debug-837c6944e48c22fd4696.json",
+					"name" : "cos_density",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "final_render::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-final_render-Debug-34f60e4d3d2cddd2e888.json",
+					"name" : "final_render",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "integrate_x_sq_v1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-integrate_x_sq_v1-Debug-e52eab7065f67fc56054.json",
+					"name" : "integrate_x_sq_v1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "integrate_x_sq_v2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-integrate_x_sq_v2-Debug-036e318e192289a3cca6.json",
+					"name" : "integrate_x_sq_v2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "integrate_x_sq_v3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-integrate_x_sq_v3-Debug-2b5f9bab79cc816501a6.json",
+					"name" : "integrate_x_sq_v3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "integrate_x_sq_v4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-integrate_x_sq_v4-Debug-65c890a7e46dcf267b09.json",
+					"name" : "integrate_x_sq_v4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pi_v1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pi_v1-Debug-db309ad45210c888fb88.json",
+					"name" : "pi_v1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pi_v2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pi_v2-Debug-e6344d1f2b3e1c3bf2ad.json",
+					"name" : "pi_v2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pi_v3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pi_v3-Debug-ea2931bfe590a97d7ca8.json",
+					"name" : "pi_v3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sphere_importance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sphere_importance-Debug-926b22374492b3b47b5d.json",
+					"name" : "sphere_importance",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sphere_plot::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sphere_plot-Debug-6bd27efe3f00e0e0a757.json",
+					"name" : "sphere_plot",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/C++/RayTracingTheRestofYourLife/cmake-build-debug",
+		"source" : "D:/C++/RayTracingTheRestofYourLife"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
